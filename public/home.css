@@ -1,0 +1,43 @@
+body {
+    background-color:lightslategray;
+    background-image: url(https://images.unsplash.com/photo-1623520527569-fee1da87f598?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80);
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: white;
+}
+
+.nav {
+    position: relative;
+    display: inline;
+    color: white;
+}
+.acnav {
+    margin-left: 40%;
+    position: relative;
+    color: white;
+}
+a {
+    color: white;
+    text-decoration: none;
+}
+#sepa{
+    margin-left: 15px;
+}
+h3{
+    margin-left: 10%;
+}
+#video{
+    margin-left: 50%;
+    position: relative;
+    position: absolute  ;
+}
+#pos{
+    margin-top: 20% ;
+    width: 10%;
+}
+.quick{
+    margin-top: 15%;
+}
+p{
+    width: 20%;
+}

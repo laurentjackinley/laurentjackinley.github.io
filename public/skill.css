@@ -1,0 +1,32 @@
+body {
+    background-color:rgb(11, 6, 63);
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: white;
+}
+
+.nav {
+    position: relative;
+    display: inline;
+    color: white;
+}
+.acnav {
+    margin-left: 40%;
+    position: relative;
+    color: white;
+}
+a {
+    color: white;
+    text-decoration: none;
+}
+li{
+    font-size: large;
+    margin-bottom: 10px;
+}
+.ulskill{
+    margin-top: 5%;
+}
+p{
+    text-align: center;
+    width: 20%;
+}
